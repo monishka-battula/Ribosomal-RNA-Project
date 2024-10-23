@@ -1,0 +1,6 @@
+SMILES,NAMES
+CCC(=O)NC[C@]1(O)[C@@H](C)O[C@H](O[C@H]2[C@H](C)[C@@H](OC(=O)C)[C@H](C)[C@@H](O)C[C@@H](C)[C@H]2O)[C@@H](C)[C@@H]1O,Molecule 21
+CCCC(=O)NC[C@]1(O)[C@@H](C)O[C@H](O[C@H]2[C@H](C)[C@@H](O)[C@H](C)N[C@H](C)[C@@H](O)[C@H](C)[C@@H]2O)[C@H](C)[C@@H]1O,Molecule 23
+CCC(=O)NC[C@]1(O)[C@@H](C)O[C@H](O[C@H]2C(=C(C)C[C@H](N(C)[C@@H](C)[C@H](O)[C@@H](C)O)[C@H]2O)C)[C@H](C)[C@@H]1O,Molecule 56
+C=C[C@H]1O[C@@H]2[C@H](O)[C@H](O)[C@@H]3C/C(=C\C[C@H]2[C@@H](O)[C@@H](O)[C@@H]1O)/[C@H](O)[C@H](O)[C@@H](O)[C@H](CO)O3,Molecule 120
+C=CCC(=O)N[C@H]1O[C@H](O)[C@@H](O)[C@H](O)[C@H]2O[C@H]1[C@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@H]2O,Molecule 195
